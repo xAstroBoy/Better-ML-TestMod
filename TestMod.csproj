@@ -35,6 +35,16 @@
     <Reference Include="System" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="AstroPatch.cs" />
+    <Compile Include="Extensions\CodingExtensions.cs" />
+    <Compile Include="Extensions\ColorUtils.cs" />
+    <Compile Include="Extensions\ComponentUtils.cs" />
+    <Compile Include="Extensions\DeepClone_ext.cs" />
+    <Compile Include="Extensions\Engine_ext.cs" />
+    <Compile Include="Extensions\Finder.cs" />
+    <Compile Include="Extensions\ListExtensions.cs" />
+    <Compile Include="Extensions\MiscUtils.cs" />
+    <Compile Include="Extensions\TextMeshPro_ext.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Main.cs" />
   </ItemGroup>
